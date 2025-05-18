@@ -48,3 +48,10 @@
   - Tiro de Arco
   - Cura
   - Escudo Divino
+  
+### Balduk
+- **Classe**: Paladino
+- **Habilidades**:
+  - Tiro de Arco
+  - Cura
+  - Escudo Divino
