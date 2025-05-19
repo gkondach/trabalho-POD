@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 import random
 from functools import total_ordering
-
+#gera os outros metodos a partir do __eq__ e __lt__
 @total_ordering
 class Dado(ABC):
     """
