@@ -212,7 +212,6 @@ class Personagem:
             personagem = Personagem(nome, classe, habilidades)
             personagens.append(personagem)
 
-        #achei que seria mais facil para correção se não apagasse os erros anteriores 
         if erros:
             with open("erros.md", 'w', encoding="utf-8") as log:
                 for erro in erros:
